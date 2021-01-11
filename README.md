@@ -1,6 +1,8 @@
 ### Hi! 
 
-I love sharing my knowledge and experience.
+**Andres Sacco** has been working as a developer since 2007 in different languages including **Java**, **PHP**, **NodeJs**, and **Android**. Most of his background is in **Java** and the libraries or frameworks associated with this language. In most of the companies that he worked for, he researched new technologies in order to improve the performance, stability, and quality of the applications of each company.
+
+Also, he dictated some internal courses to different audiences like developers, business and commercial analysts.
 
 ### My networks
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/adsChosen)
