@@ -1,5 +1,3 @@
-### Hi! 
-
 **Andres Sacco** has been working as a developer since 2007 in different languages including **Java**, **PHP**, **NodeJs**, and **Android**. Most of his background is in **Java** and the libraries or frameworks associated with this language. In most of the companies that he worked for, he researched new technologies in order to improve the performance, stability, and quality of the applications of each company.
 
 Also, he dictated some internal courses to different audiences like developers, business and commercial analysts.
