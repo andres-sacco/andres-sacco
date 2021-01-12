@@ -7,3 +7,14 @@ Also, he dictated some internal courses to different audiences like developers, 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/saccoandres)
 [![Medium URL](https://img.shields.io/static/v1?color=blue&label=medium&logo=medium&logoColor=white&style=for-the-badge&message=Follow)](https://medium.com/@sacco-andres)
 [![Stackoverflow URL](https://img.shields.io/static/v1?color=blue&label=stackoverflow&logo=stackoverflow&logoColor=white&style=for-the-badge&message=check)](https://stackoverflow.com/users/2062201/andres-sacco)
+
+<hr/>
+
+**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+
+<a href="https://github.com/andres-sacco/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-sacco&count_private=false&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/andres-sacco/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-sacco&layout=compact&theme=radical&hide_border=false" />
+</a>
