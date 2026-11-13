@@ -105,8 +105,3 @@ Spoken at **JCON · Nerdearla · JConf Peru · Heisenbug · JPoint · JVM Colomb
 
 Testing toolbox I reach for most: **JUnit 5 · Mockito · Karate · WireMock · ArchUnit · Testcontainers · Pitest**
 
-<div align="center">
-
-![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-sacco&show_icons=true&hide_border=true&theme=default)
-
-</div>
