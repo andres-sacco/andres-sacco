@@ -83,6 +83,7 @@ Spoken at **JCON · Nerdearla · JConf Peru · Heisenbug · JPoint · JVM Colomb
 | Introducción a las pruebas E2E con Java | EDteam | [`edteam-end-to-end-tests`](https://github.com/andres-sacco/edteam-end-to-end-tests) |
 | Introducción a la arquitectura de eventos | EDteam | [`edteam-events-architecture`](https://github.com/andres-sacco/edteam-events-architecture) |
 | Programación reactiva con Spring Boot | EDteam | [`edteam-reactive-programming`](https://github.com/andres-sacco/edteam-reactive-programming) |
+| Modernización de Aplicaciones Legacy con IA | EDteam | [`edteam-modernize-legacy-code`](https://github.com/andres-sacco/edteam-modernize-legacy-code-with-ai) |
 | Spring AI | EDteam | [`edteam-spring-ai`](https://github.com/andres-sacco/edteam-spring-ai) |
 | Testing unitario en Java | Crehana | [`crehana-catalog`](https://github.com/andres-sacco/crehana-catalog) · [`crehana-operations`](https://github.com/andres-sacco/crehana-operations) |
 | API Testing with Karate | Thrive | [`thrive-api-testing-with-karate`](https://github.com/andres-sacco/thrive-api-testing-with-karate) |
